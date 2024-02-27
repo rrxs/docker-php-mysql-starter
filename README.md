@@ -3,6 +3,7 @@ A docker compose configuration to run multiple php applications in only one cont
 
 ## Applications
 
+- PHP 7.2
 - Apache
 - MySQL
 - PhpMyAdmin
